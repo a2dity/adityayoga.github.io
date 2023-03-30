@@ -1,0 +1,143 @@
+li{
+	list-style: none;
+	display: inline-flex;
+	padding-left: 180pxpx;
+	font: sans-serif;
+	font-size: 16px;
+	padding-left: 80px;
+    padding-right: 24px;
+	color: red;
+
+
+}
+li a{
+	color: #060606;
+	font-weight: 1000;
+	text-decoration: none;
+	padding-top:100px;
+   margin-bottom: 620px;
+  margin-right: 20px;
+}
+div img{
+   height: 700px;
+    width: 1280px;
+    
+}
+body{
+	background-color: #E0ECE4;
+}
+.div-1{
+/*	background-color: red;*/
+}
+div-1 p{
+	padding-right:260px;
+}
+.Search{
+	margin-left: 760px;
+	margin-top: -5px;
+}
+.Search-2{
+	margin-left: 900px;
+	margin-top: 5px;
+}
+
+.small-div-1{
+	margin-left: 30px;
+	margin-top: 40px;
+	height: 215px;
+    width: 210px;
+    margin-bottom: 88px;
+/*    display:inline;*/
+}
+.small-div-2{
+	margin-left: 30px;
+	margin-top: 40px;
+	height: 215px;
+    width: 210px;
+    margin-bottom: 88px;
+    margin-top: -303px;
+    margin-left: 531px;
+}
+.small-div-3{
+	margin-left: 30px;
+	margin-top: 40px;
+	height: 215px;
+    width: 210px;
+    margin-bottom: 88px;
+    margin-top: -303px;
+    margin-left: 1037px;
+}
+
+#h1{
+    padding-top:-240px;
+    color:white;
+}
+#contact-1{
+/*    border:2px solid red;*/
+    height:auto;
+    width:auto;
+    background-image:linear-gradient(to top right, #2857a4,#403066);
+    padding:100px;
+    display:flex;
+/*     width:100vw; */
+}
+#contact-2 input{
+    color:grey; 
+    margin-left:40px;
+    
+}
+#get-in-touch-with{
+    margin-left:250px;
+}
+#contact{
+    height:auto;
+    width:100%;
+}
+#h6{
+    color:white;
+    padding-left:50px;
+    margin-top:-10px;
+}
+#p1{
+    font-size:10px;
+}
+#h62{
+    color:white;
+    padding-left:50px;
+}
+#p2{
+    font-size:10px;
+}
+##contact{
+    height:auto;
+    width:100%;
+}
+#input-1{
+    margin-left:-75px;
+    display:block;
+     margin-bottom:25px;
+/*     padding-bottom:6px; */
+    border:0px solid transparent;
+    border-bottom:1px solid white;
+    background:transparent;
+    
+    
+}
+#input-2{
+    margin-left:-75px;
+    display:block;
+    margin-bottom:25px;
+/*     padding-bottom:6px; */
+    border:0px solid transparent;
+    border-bottom:1px solid white;
+    background:transparent;
+    
+}
+#input-3{
+    margin-left:-75px;
+    display:block;
+/*     padding-bottom:6px; */
+    border:0px solid transparent;
+    border-bottom:1px solid white;
+    background:transparent;
+}
